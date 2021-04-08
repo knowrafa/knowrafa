@@ -1,16 +1,15 @@
 
-<a href="https://knowrafa.github.io/"><img align="top" src="https://github.com/knowrafa/knowrafa/blob/master/assets/img/home.png"/></a>
-<a href="https://www.linkedin.com/in/knowrafa/"><img align="top" src="https://github.com/knowrafa/knowrafa/blob/master/assets/img/linkedin.png"/></a>
+
+<a href="https://knowrafa.github.io/"><img align="right" src="https://github.com/knowrafa/knowrafa/blob/master/assets/img/home.png"/></a>
+<a href="https://www.linkedin.com/in/knowrafa/"><img align="right" src="https://github.com/knowrafa/knowrafa/blob/master/assets/img/linkedin.png"/></a>
 
 <br>
 <br>
 <center>
-<table>
   <tr>
     <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=knowrafa&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
-      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowrafa&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
+      <td><img width="390px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowrafa&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
   </tr>   
-</table>
 </center>
 
 <!--
