@@ -1,5 +1,6 @@
-<a href="https://knowrafa.github.io/"><img align="left" src="https://github.com/knowrafa/knowrafa/blob/master/assets/img/home.png"/></a>
+<center><a href="https://knowrafa.github.io/"><img align="left" src="https://github.com/knowrafa/knowrafa/blob/master/assets/img/home.png"/></a>
 <a href="https://www.linkedin.com/in/knowrafa/"><img align="left" src="https://github.com/knowrafa/knowrafa/blob/master/assets/img/linkedin.png"/></a>
+</center>
 <br>
 <br>
 <center>
