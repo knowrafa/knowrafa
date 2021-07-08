@@ -5,9 +5,13 @@
 
 <br>
 <br>
-<center>
-  <img width="390px" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowrafa&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" /></td>
- </center>
+<p align="center">
+    
+  <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowrafa&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa" />
+</p>
+  
+
+
 
 <!--
 **knowrafa/knowrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
