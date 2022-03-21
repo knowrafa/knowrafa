@@ -17,7 +17,6 @@
 -->
 <p align="center">
 <img height="300"  align="center" src="https://wakatime.com/share/@fa9e690c-4481-4148-888f-785311520465/7c292260-6077-4f47-b53d-094c741454da.svg">
-<img height="300"  align="center" src="https://wakatime.com/share/@fa9e690c-4481-4148-888f-785311520465/5c1dc6ab-d8cc-4ce5-bbef-3cb704096b16.svg">
 </p>
 
 
